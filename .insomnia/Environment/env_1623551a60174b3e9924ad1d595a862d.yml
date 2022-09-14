@@ -1,0 +1,14 @@
+_id: env_1623551a60174b3e9924ad1d595a862d
+type: Environment
+parentId: env_4f74c75183157d49cbfceb9800385c1e5b07c4ba
+modified: 1663168224707
+created: 1663167498388
+name: lms-review-mr-266-myoo3l
+data:
+  URL: https://api-lms-review-mr-266-myoo3l.kube.ebacdev.com
+dataPropertyOrder:
+  "&":
+    - URL
+color: null
+isPrivate: false
+metaSortKey: 1663167498388
