@@ -1,0 +1,21 @@
+_id: req_5fd7d810755d4387a8399453ed1a91d7
+type: Request
+parentId: fld_ee2081c26eac4c149d4c06f515c2db40
+modified: 1663168388085
+created: 1663168319907
+url: "{{URL}}/faq/{{FAQ_ID}}"
+name: Get one
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663168319907
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
